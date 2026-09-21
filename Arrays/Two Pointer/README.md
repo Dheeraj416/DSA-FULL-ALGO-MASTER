@@ -1,0 +1,168 @@
+<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icon.png" align="right" /><a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_orange_ff7600.png?resize=149%2C149" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
+<img src="https://miro.medium.com/max/1400/1*ZbqzK9gjMXpDq6tZEq74rA.png" width="600" height="250">
+
+# Arrays/Two Pointer : :triangular_flag_on_post:
+
+<h1>Questions</h1>
+<table id = "example" class="SectionTable display" >
+		<thead>
+      <th>Problem Name</th>
+		</thead>
+		<tbody>
+			<tr>
+          			  <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/3Sum.cpp">3Sum (Leetcode-15)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/3Sum%20Closest.cpp">3Sum Closest (Leetcode-16)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Mountain%20in%20Array">Longest Mountain in Array (Leetcode-845)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array%20II">Remove Duplicates from Sorted Array II (Leetcode-80)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/4Sum">4Sum (Leetcode-18)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp">Two Sum II - Input array is sorted (Leetcode-167)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Container%20With%20Most%20Water.cpp">Container With Most Water (Leetcode-11)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Word%20in%20Dictionary%20through%20Deleting">Longest Word in Dictionary through Deleting (Leetcode-524)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/3Sum%20With%20Multiplicity">3Sum With Multiplicity (Leetcode-923)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest_Substring_Without_Repeating_Characters.cpp">Longest Substring Without Repeating Characters (3 approaches) (Leetcode-3)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Partition%20Labels.cpp">Partition Labels (Leetcode-763)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Max%20Consecutive%20Ones%20II.cpp">Max Consecutive Ones II (Leetcode-487)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Max%20Consecutive%20Ones%20III.cpp">Max Consecutive Ones III (Leetcode-1004)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Valid%20Triangle%20Number.cpp">Valid Triangle Number (Leetcode-611)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Push%20Dominoes.cpp">Push Dominoes (Leetcode-838)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Reverse%20Vowels%20of%20a%20String.cpp">Reverse Vowels of a String (Leetcode-345)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array.cpp">Remove Duplicates from Sorted Array (Leetcode-26)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Successful%20Pairs%20of%20Spells%20and%20Potions.cpp">Successful Pairs of Spells and Potions (Leetcode-2300)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp">Number of Subsequences That Satisfy the Given Sum Condition (Leetcode-1498)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp"> Minimize Maximum Pair Sum in Array (Leetcode-1877)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Count%20the%20Number%20of%20Good%20Partitions.cpp"> Count the Number of Good Partitions (Leetcode-2963)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.cpp"> Minimum Length of String After Deleting Similar Ends (Leetcode-1750)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Count%20Alternating%20Subarrays.cpp"> Count Alternating Subarrays (Leetcode-3101)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Maximum%20Width%20Ramp.cpp"> Maximum Width Ramp (Leetcode - 962)</a>
+				</td>
+      			</tr>
+			<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.cpp"> Shortest Subarray to be Removed to Make Array Sorted (Leetcode - 1574)</a>
+				</td>
+      			</tr>
+			    <tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Partition%20Labels.cpp"> Partition Labels (Leetcode - 763)</a>
+					</td>
+      			</tr>
+				<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.cpp"> Minimum Difference Between Highest and Lowest of K Scores (Leetcode - 1984)</a>
+					</td>
+      			</tr>
+				<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Minimum%20Removals%20to%20Balance%20Array.cpp"> Minimum Removals to Balance Array (Leetcode - 3634)</a>
+					</td>
+      			</tr>
+				<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Balanced%20Substring%20I.cpp"> Longest Balanced Substring I (Leetcode - 3713)</a>
+					</td>
+      			</tr>
+				<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Balanced%20Subarray%20I.cpp"> Longest Balanced Subarray I (Leetcode - 3719)</a>
+					</td>
+      			</tr>
+				<tr>
+          			<td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp"> Maximum Distance Between a Pair of Values (Leetcode - 1855)</a>
+					</td>
+      			</tr>
+		</tbody>
+</table>
